@@ -40,8 +40,14 @@
              */
             #endregion
 
-            #region
-
+            #region Variables
+            // Declaration variable  contain 3 things :
+            // 1 : Data Type ==> Mandatory to set it
+            // 2 : Name 'name of variable' ==> Mandatory to set it
+            // 3 : Value ==> Option to set it
+            // like :
+            //int X = 0;
+            //int Y;
             #endregion
         }
     }
