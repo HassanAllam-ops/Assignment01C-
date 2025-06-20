@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Explanation
+            /*
+             i do not what shoud i do exactly,
+            so i will Explain some parts from the session
+            in some regions 
+             */
+            #endregion
         }
     }
 }
